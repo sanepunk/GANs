@@ -5,3 +5,7 @@ proj
 .idea
 *.pyc
 *.__pycache__
+../VAE/FlaxVAE.py
+../VAE/FlaxVAESkipNet.py
+*.ipynb
+../VAE/faceVerification.py
